@@ -1,0 +1,6 @@
+﻿interface:
+  display_name: "Codex 节奏助手"
+  short_description: "把 Codex 使用窗口对齐到高强度工作时段"
+  default_prompt: "Use $codex-pace to plan my Codex high-focus work window and install a safe local ping schedule."
+policy:
+  allow_implicit_invocation: true
