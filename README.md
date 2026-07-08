@@ -20,7 +20,7 @@
 推荐用 `npx skills` 从 GitHub 安装单个 skill：
 
 ```powershell
-npx skills add https://github.com/<your-github-user>/codex-skills --skill codex-pace --yes --global
+npx skills add https://github.com/quegaiwoniu/codex-skills --skill codex-pace --yes --global
 ```
 
 如果你手动安装，可以复制目录：
@@ -78,3 +78,4 @@ agents/openai.yaml
 ```
 
 如果需要确定性脚本，请放在 `scripts/` 下。不要提交缓存、token、日志或本机配置。
+
